@@ -10,3 +10,4 @@ Repositorio de ejemplo para nuestro curso de Git
 Crea un fork y añade tu nombre a la lista!
 
 - Pablo Dávila Herrero
+- Lorenzo Tagua Santana
